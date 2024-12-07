@@ -523,8 +523,8 @@ rect.held, rect.combo.held {
 <g transform="translate(632, 224) rotate(-24.0)" class="key keypos-45">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#like">
-<text x="0" y="-4" class="key tap layer-activator"><tspan style="font-size: 75%">60%-like</tspan></text>
+<a href="#qwerty">
+<text x="0" y="-4" class="key tap layer-activator">qwerty</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(695, 209) rotate(-12.0)" class="key keypos-46">
@@ -534,7 +534,8 @@ rect.held, rect.combo.held {
 <text x="0" y="-4" class="key tap layer-activator">
 <tspan x="0" dy="-1.2em" style="font-size: 86%">numbers</tspan><tspan x="0" dy="1.2em" style="font-size: 86%">and</tspan><tspan x="0" dy="1.2em" style="font-size: 86%">fn</tspan>
 </text>
-</a></g>
+</a><text x="0" y="24" class="key hold">toggle</text>
+</g>
 <g transform="translate(756, 203)" class="key keypos-47">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
@@ -791,8 +792,10 @@ rect.held, rect.combo.held {
 <g transform="translate(632, 224) rotate(-24.0)" class="key keypos-45">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#qwerty">
-<text x="0" y="-4" class="key tap layer-activator">qwerty</text>
+<a href="#numbers-and-fn">
+<text x="0" y="-4" class="key tap layer-activator">
+<tspan x="0" dy="-1.2em" style="font-size: 86%">numbers</tspan><tspan x="0" dy="1.2em" style="font-size: 86%">and</tspan><tspan x="0" dy="1.2em" style="font-size: 86%">fn</tspan>
+</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(695, 209) rotate(-12.0)" class="key keypos-46">
@@ -1055,16 +1058,18 @@ rect.held, rect.combo.held {
 <g transform="translate(632, 224) rotate(-24.0)" class="key keypos-45">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#qwerty">
-<text x="0" y="-4" class="key tap layer-activator">qwerty</text>
+<a href="#numbers-and-fn">
+<text x="0" y="-4" class="key tap layer-activator">
+<tspan x="0" dy="-1.2em" style="font-size: 86%">numbers</tspan><tspan x="0" dy="1.2em" style="font-size: 86%">and</tspan><tspan x="0" dy="1.2em" style="font-size: 86%">fn</tspan>
+</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
-<g transform="translate(695, 209) rotate(-12.0)" class="key held keypos-46">
-<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key held side"/>
-<rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key held"/>
+<g transform="translate(695, 209) rotate(-12.0)" class="key keypos-46">
+<rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
+<rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
 <a href="#abyss">
-<text x="0" y="-4" class="key held tap layer-activator">abyss</text>
-</a><text x="0" y="24" class="key held hold">toggle</text>
+<text x="0" y="-4" class="key tap layer-activator">abyss</text>
+</a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(756, 203)" class="key trans keypos-47">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key trans side"/>
@@ -1332,15 +1337,19 @@ rect.held, rect.combo.held {
 <g transform="translate(632, 224) rotate(-24.0)" class="key keypos-45">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#qwerty">
-<text x="0" y="-4" class="key tap layer-activator">qwerty</text>
+<a href="#numbers-and-fn">
+<text x="0" y="-4" class="key tap layer-activator">
+<tspan x="0" dy="-1.2em" style="font-size: 86%">numbers</tspan><tspan x="0" dy="1.2em" style="font-size: 86%">and</tspan><tspan x="0" dy="1.2em" style="font-size: 86%">fn</tspan>
+</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(695, 209) rotate(-12.0)" class="key keypos-46">
 <rect rx="6" ry="6" x="-26" y="-26" width="52" height="52" class="key side"/>
 <rect rx="4" ry="4" x="-20" y="-24" width="40" height="40" class="key"/>
-<a href="#qwerty">
-<text x="0" y="-4" class="key tap layer-activator">qwerty</text>
+<a href="#numbers-and-fn">
+<text x="0" y="-4" class="key tap layer-activator">
+<tspan x="0" dy="-1.2em" style="font-size: 86%">numbers</tspan><tspan x="0" dy="1.2em" style="font-size: 86%">and</tspan><tspan x="0" dy="1.2em" style="font-size: 86%">fn</tspan>
+</text>
 </a><text x="0" y="24" class="key hold">toggle</text>
 </g>
 <g transform="translate(756, 203)" class="key trans keypos-47">
